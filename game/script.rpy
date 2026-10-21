@@ -8,7 +8,7 @@ label start:
     $ _dismiss_pause = config.developer    # Allow skipping pauses in developer mode
     
     # Initial character name variables before they're properly introduced
-    $ s_name = "???"                       # Sayori's name placeholder
+    $ s_name = "blink?"                       # Sayori's name placeholder
     $ m_name = "Girl 3"                    # Monika's name placeholder
     $ n_name = "Girl 2"                    # Natsuki's name placeholder
     $ y_name = "Girl 1"                    # Yuri's name placeholder
